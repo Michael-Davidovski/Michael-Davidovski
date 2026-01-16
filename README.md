@@ -1,4 +1,10 @@
-## Hi there 👋
+### Hi there 👋
+## I'm Michael Davidosvki
+from germany
+
+- currently working on a little game
+- 🌱 I’m currently learning Rust + Bevy
+- How to reach me: mi.davidovski@gmail.com
 
 <!--
 **Michael-Davidovski/Michael-Davidovski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
